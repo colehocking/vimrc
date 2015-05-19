@@ -3,3 +3,6 @@ set number
 colorscheme peaksea
 set bg=light
 set bg=dark
+
+set pastetoggle=<F10>
+set clipboard=unnamedplus
